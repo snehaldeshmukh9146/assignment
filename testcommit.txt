@@ -1,2 +1,2 @@
-first git commit.
 Second git commit.
+deleted first git commit.
