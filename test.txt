@@ -1,2 +1,2 @@
 im trying to learn cherry-picking!!
-this is some new text
+this is some new text.
